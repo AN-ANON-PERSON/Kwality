@@ -29,5 +29,31 @@ Blocks:
 -Changed Ores
 -Changed Stone
 
-Entity:
--
+Entities:
+-Edited Ender Dragon Textures
+-Edited Signs
+-Edited Guardians
+-Edited Skeleton and Wither Skeleton Textures
+-Edited Ghast Textures
+-Edited Explosions and Exp Orbs
+-Edited Blaze
+-Edited Chicken
+-Edited Arrow
+-Swapped Chest Textures
+
+Gui:
+-Edited Inventory Guis
+-Edited Hearts and Hunger Bars
+-Edited Potion Effect Icons
+-Edited Title and Loading Screen
+-Edited Ping Bars 
+-Edited Loading Screen Between Worlds
+
+Misc:
+-Made Footprints more Obvious
+-Changed Armour Textures
+-Changed Enchantment Glint
+-Changed World Border Lines
+-Changed Pumpkin Blur Effect
+-Edited End Screen Credits and Text
+-Changed Splashes Shown on the Menu Screen
