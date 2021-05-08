@@ -1,2 +1,3 @@
 # Kwality
-Where you can download the texture pack
+
+This texture pack is still in development
